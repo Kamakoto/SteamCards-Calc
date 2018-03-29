@@ -1,0 +1,7 @@
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\obj\x86\Debug\SteamCards.Form1.resources
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\obj\x86\Debug\SteamCards.Properties.Resources.resources
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\obj\x86\Debug\SteamCards.csproj.GenerateResource.Cache
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\bin\Debug\SteamCards-Calc.exe
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\bin\Debug\SteamCards-Calc.pdb
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\obj\x86\Debug\SteamCards-Calc.exe
+S:\Github_Project\SteamCards-Calc\SteamCards\SteamCards\obj\x86\Debug\SteamCards-Calc.pdb
